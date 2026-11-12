@@ -20,9 +20,11 @@ En jeu : **F9** pour écrire une remarque, **F11** pour le plein écran.
 
 ## Questionnaire, bugs et nouveautés
 
-Le site de la bêta : **https://reaptirement-beta.pages.dev** (guide, nouveautés, questionnaire, signaler un bug).
+Le site de la bêta : **https://reaptirement-beta.pages.dev** (guide, nouveautés, classements, questionnaire, signaler un bug).
 
 Pendant que tu joues, le jeu note ta progression (temps, achats, Moissons, boss, pouvoirs, fluidité, erreurs) et l'envoie au site pour équilibrer le jeu. Rien d'autre n'est lu sur ton PC.
+
+À partir de la 0.9.3, tes records (temps pour vaincre chaque boss, âmes fauchées en une Moisson…) partent aussi dans les [classements](https://reaptirement-beta.pages.dev/classements), sous ton pseudo, visibles par tous les testeurs.
 
 ---
 Bêta privée entre amis · © KEROS
